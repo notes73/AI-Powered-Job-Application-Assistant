@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit
+openai
+python-dotenv
+
+# Resume and document processing
+pdfplumber  # Extract text from PDFs
+python-docx  # Extract text from DOCX files
+
+# Advanced PDF processing (optional)
+pymupdf  # Better PDF text extraction
+
+# NLP and keyword extraction (optional)
+spacy  # For natural language processing
+
+# Web scraping and automation (optional)
+requests  # For making API calls
+beautifulsoup4  # For scraping job descriptions
+selenium  # For automating LinkedIn scraping (requires browser driver)
